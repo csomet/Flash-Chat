@@ -25,5 +25,5 @@ Flash-Chat uses a few cocoapods to work:
 - [Cocoapods SVProgressHUD](Pods/SVProgressHUD/README.md)
 
 ### 👤Author
-Carlos H somet 
+Carlos H somet    
 Special thanks to Angela Yu, The App Brewery.
