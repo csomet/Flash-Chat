@@ -23,6 +23,7 @@ Flash-Chat uses a few cocoapods to work:
 - [Cocoapods DropdownAlert](Pods/DropdownAlert/README.md)
 - [Cocoapods ChameleonFramework](Pods/ChameleonFramework/README.md)
 - [Cocoapods SVProgressHUD](Pods/SVProgressHUD/README.md)
+- [Cocoapods Firebase](Pods/Firebase/README.md)
 
 ### 👤Author
 Carlos H somet    
